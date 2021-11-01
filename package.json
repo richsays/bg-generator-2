@@ -1,0 +1,19 @@
+{
+  "name": "bg-generator-2",
+  "version": "1.0.0",
+  "description": "background css generator with css, direction, and random generator",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/richsays/bg-generator-2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/richsays/bg-generator-2/issues"
+  },
+  "homepage": "https://github.com/richsays/bg-generator-2#readme"
+}
